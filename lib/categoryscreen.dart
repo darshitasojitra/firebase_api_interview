@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:firebase_api_interview/subcategoryrscreen.dart';
 import 'package:flutter/material.dart';
 import 'categoryModel.dart';
